@@ -4,7 +4,7 @@ public class tt {
 
     public static void main(String[] args) {
 
-        sout
+        System.out.println("1111111");
 
     }
 }
