@@ -7,7 +7,7 @@ public class tt {
         System.out.println("1111111");
         System.out.println("11111112222");
 		System.out.println("11111112222");
-        System.out.println("jajjaj");
+        System.out.println("jajjaj");  
 
     }
 }
